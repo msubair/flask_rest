@@ -1,0 +1,7 @@
+flask-httpauth
+flask
+pyOpenSSL
+ndg-httpsclient
+pyasn1
+joblib
+pymongo
